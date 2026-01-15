@@ -1,0 +1,22 @@
+# Port Scanner POC - Requirements
+# ================================
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Standard library modules used:
+# - socket (network connections)
+# - threading (multithreading)
+# - argparse (command line parsing)
+# - sys (system operations)
+# - datetime (timestamps)
+# - queue (thread-safe queue)
+# - typing (type hints)
+#
+# Python version: 3.7+
+#
+# Optional: For development/testing purposes
+# ------------------------------------------
+# pytest>=7.0.0        # For running tests
+# black>=22.0.0        # For code formatting
+# flake8>=4.0.0        # For linting
+# mypy>=0.950          # For type checking
