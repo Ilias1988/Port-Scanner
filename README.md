@@ -67,7 +67,7 @@ By using this tool, you agree to use it only for legal and authorized purposes.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/port-scanner-poc.git
+git clone https://github.com/Ilias1988/port-scanner-poc.git
 cd port-scanner-poc
 ```
 
